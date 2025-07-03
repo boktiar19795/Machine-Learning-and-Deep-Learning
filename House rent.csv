@@ -1,0 +1,25 @@
+Area,Bedrooms,Bathrooms,Location,Furnishing,Property Type,Rent
+2000,2,1,Mdpur,yes,Apartment,30000
+3211,3,2,Dhanmondi,yes,Apartment,32000
+2010,2,1,Mirpur,yes,Apartment,31000
+3010,3,2,Gulshan-1,yes,Apartment,34000
+3200,3,2,Gulshan-1,yes,Apartment,26000
+4300,4,3,Shamoli,yes,Rent,27000
+2100,2,2,Tejgao,No,Rent,28000
+2200,2,3,Mohakhali,Semi furnished,Rent,23000
+2300,3,2,Banani,No,Rent,24000
+2400,4,3,Rajarbag,yes,Rent,26000
+2500,3,2,Gulshan-1,yes,Rent,24000
+1900,2,1,Mirpur,no,Rent,23000
+2010,2,1,Mdpur,yes,Apartment,30000
+3311,3,2,Dhanmondi,yes,Apartment,32000
+2410,2,1,Mirpur,yes,Apartment,31000
+3510,3,2,Gulshan-1,yes,Apartment,34000
+3200,3,2,Gulshan-1,yes,Apartment,26000
+4360,4,3,Shamoli,yes,Rent,27000
+2100,2,2,Tejgao,No,Rent,28000
+2260,2,3,Mohakhali,Semi furnished,Rent,23000
+2300,3,2,Banani,No,Rent,24000
+2405,4,3,Rajarbag,yes,Rent,26000
+2260,3,2,Gulshan-1,yes,Rent,24000
+2000,2,1,Mirpur,no,Rent,23000
